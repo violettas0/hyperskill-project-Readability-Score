@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Readability Score (Python)/*
+!/Readability Score (Python)/task/
+/Readability Score (Python)/task/*
+!/Readability Score (Python)/task/readability
